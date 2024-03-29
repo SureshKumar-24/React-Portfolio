@@ -13,7 +13,7 @@ function App() {
   }
   return (
     <>
-      <h1> React With Vite</h1>
+      <h1 className='bg-green-200 p-1 rounded-xl'> React With Vite</h1>
       <h2>Counter Value: {count}</h2>
       <br />
       <div>
