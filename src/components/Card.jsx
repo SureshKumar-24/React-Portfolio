@@ -1,6 +1,7 @@
 import React from 'react'
 
-function Card({ userName, btnText = "visit me" }) {
+function Card({ userName, btnText = "visit me",arrp }) {
+    console.log('arrp',arr)
     return (
         <div className="relative h-[400px] w-[300px] rounded-md mb-4">
             <img
