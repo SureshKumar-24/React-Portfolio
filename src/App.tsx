@@ -1,10 +1,10 @@
-import Password from './components/Password'
+import CurrencyConvertor from './components/CurrencyConvertor'
 
 
 function App() {
   return (
     <>
-      <Password/>
+      <CurrencyConvertor/>
     </>
   )
 }
